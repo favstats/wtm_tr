@@ -119,6 +119,7 @@ a922dfc9-23c2-466e-a83c-da8396b53e22,CHP Derince İlçe Başkanlığı,2023-03-0
 281e7210-d8cd-470a-9a5a-7f2614b41eb7,CHP Parti Okulu,2023-03-08T16:37:42.958Z,ca2d7dd7-6b0a-4fb8-b237-9914db9d3f72,CHP,Turkey,tr,906394629482043,CHP Parti Okulu,Facebook
 787a85f7-44e6-4196-87e5-6db5de8e66a6,CHP Hanönü İlçe Başkanlığı,2023-03-08T15:36:48.498Z,25d7cfd6-93f6-4520-b3cd-1e1266a6103b,CHP,Turkey,tr,669108223100122,CHP Hanönü İlçe Başkanlığı,Facebook
 05b52ba0-3d37-4656-aaec-773109daeb45,CHP Denizli Gençlik Örgütleri,2023-03-08T16:37:43.076Z,d9fbbed3-36d7-4e8b-ba85-77977a81372e,CHP,Turkey,tr,218478311538366,CHP Denizli Gençlik Örgütleri,Facebook
+5f2396f5-12f9-42ad-973d-f089a1a9ca35,Recep Tayyip Erdoğan,2023-05-15T06:55:50.978Z,297c1832-7dd8-4c2d-8e5a-26e6094baf1d,AKP,Turkey,tr,344704883576,Recep Tayyip Erdoğan,Facebook
 3e9a9b17-8b02-4f52-b60b-9018b2a8d76f,Kemal Bilal ÖNER,2023-02-26T10:55:32.931Z,bbd624a9-e0a8-405d-9255-fd90465c872a,CHP,Turkey,tr,407370093070640,Kemal Bilal ÖNER,Facebook
 21e40ae6-77e8-40e0-9240-846197de793d,MHP Mardin İl Başkanlığı,2023-02-13T10:55:29.039Z,38dc13be-5401-484e-8a47-5433f41dac14,MHP,Turkey,tr,103724928387169,MHP Mardin İl Başkanlığı,Facebook
 a5627b02-0a1b-4219-9d09-946cb828dadd,MHP ÇORLU,2023-02-08T05:55:46.470Z,1ec03107-4590-44e8-a431-a7f036396f25,MHP,Turkey,tr,592741447476060,MHP ÇORLU,Facebook
@@ -199,7 +200,6 @@ d036f0e5-f909-4218-98ce-c05c7cfb2d52,Murat Tatlıbaş,2023-05-13T06:55:46.769Z,6
 ce55f124-6cca-4bbe-897e-e6fe4bb9af6d,Evrim Balbaloğlu,2023-05-13T06:55:46.753Z,307a2c4f-f83c-4b13-b5f5-b2791df513fc,İYİ,Turkey,tr,119169181123395,Evrim Balbaloğlu,Facebook
 ebab76f3-05f0-45e0-b8d3-dbccdbfc643a,Salim Çivitcioğlu,2023-05-13T06:55:46.723Z,7aa138b7-4600-44e8-9eee-37062afb129f,AKP,Turkey,tr,2304836466461167,Salim Çivitcioğlu,Facebook
 741b8210-70b5-4d52-b923-c32164394aa2,Ali KEVEN,2023-05-13T06:55:46.631Z,0f858ac3-ea83-4808-a275-737d1f38a021,CHP,Turkey,tr,252723995287282,Ali KEVEN,Facebook
-5f2396f5-12f9-42ad-973d-f089a1a9ca35,Recep Tayyip Erdoğan,2023-05-15T06:55:50.978Z,297c1832-7dd8-4c2d-8e5a-26e6094baf1d,AKP,Turkey,tr,344704883576,Recep Tayyip Erdoğan,Facebook
 130370ff-debf-4434-98f5-99993bdbbded,Veli Ağbaba,2023-05-04T06:54:52.549Z,b8fcc01a-f533-4cd5-a432-5b335a396886,CHP,Turkey,tr,255623134454073,Veli Ağbaba,Facebook
 86aec248-d388-4afc-aef8-67afc07d7a5c,Yeniden Refah Partisi Cumayeri İlçe Teşkilatı,2023-05-17T06:55:04.348Z,9e5329d6-1720-480f-9b16-fd70a99df91b,Diğ,Turkey,tr,599570837135990,Yeniden Refah Partisi Cumayeri İlçe Teşkilatı,Facebook
 a5318bdc-06c6-4179-abd5-08df7114d568,siirt_akparti,2023-04-17T08:02:45.669Z,976e2f4d-6e52-4eae-8931-e8474c8debdc,AKP,Turkey,tr,108585278878338,siirt_akparti,Facebook
@@ -232,12 +232,7 @@ a23bb5c8-cb6f-4984-829e-640d32bec1d4,İYİ Parti Samsun İl Başkanlığı,2023-
 46751589-0069-4153-bc39-d4fb0de07c0a,Ahmet ÇELEBİ - İYİ Parti İstanbul 1.Bölge Milletvekili Aday Adayı,2023-02-07T15:05:00.578Z,db823764-e228-42ab-8fe7-d59145fbbed6,İYİ,Turkey,tr,108252655310283,Ahmet ÇELEBİ - İYİ Parti İstanbul 1.Bölge Milletvekili Aday Adayı,Facebook
 96b149e0-7a60-4684-a7a3-b29a8b78e4a0,Bora Yörükoğlu İYİ Parti,2023-03-08T14:47:51.346Z,700b0d8c-8c8c-49c2-8618-2661ca7cb67a,İYİ,Turkey,tr,364737534025103,Bora Yörükoğlu İYİ Parti,Facebook
 47741f8a-0bf3-4de7-b086-a807b7417e09,İYİ Parti Düzce Merkez İlçe Başkanlığı,2023-03-04T10:55:32.073Z,fd139cdd-ac0b-4864-9966-32ba5f5ec84e,İYİ,Turkey,tr,2171400836520795,İYİ Parti Düzce Merkez İlçe Başkanlığı,Facebook
-c43e9b78-4755-4623-a74f-c87af520cbe6,ishakheckorkmaz,2023-05-13T06:55:47.345Z,2eefcefa-6fc0-4ce3-a4cf-1ac4256c612f,ZZZ,Turkey,tr,106108879006817,ishakheckorkmaz,Facebook
-102a68e8-b952-4477-a032-9fafc46866a2,EHLİ REY,2023-05-13T06:55:47.410Z,0672d01e-62ce-48d5-be35-7f06b88000cb,ZZZ,Turkey,tr,1085757724915082,EHLİ REY,Facebook
-f2c8cf84-46c1-4699-b03b-f7d1de8e810f,furkan.capat,2023-05-13T06:55:46.871Z,6ed70fcc-1e28-4b77-8271-df485b9b0767,ZZZ,Turkey,tr,101419649611832,furkan.capat,Facebook
-010cdcf9-fcf1-4d21-9ec7-3594b877aab5,Tbservis,2023-05-13T06:55:47.495Z,0263d664-e905-4fac-8d94-013b15458de6,ZZZ,Turkey,tr,174686554271519,Tbservis,Facebook
 87b26774-cdec-482a-b31e-e3cc08a188b6,Internethaber,2023-02-07T15:05:00.515Z,6489ccf5-e1fd-45bf-858a-4d9007f38713,ZZZ,Turkey,tr,100431406701471,Internethaber,Facebook
-522ebbfd-edff-402b-991a-b40c1cbe3b00,Düzce kuafor Leydi derya,2023-05-13T06:55:47.504Z,b561ab53-5642-401f-a7a2-ac1e5332123e,ZZZ,Turkey,tr,1506108409407944,Düzce kuafor Leydi derya,Facebook
 99fb763e-2ed9-4401-94a0-5dc441de12aa,Uluslararası Af Örgütü Türkiye Şubesi,2023-02-07T15:05:00.515Z,291ed86f-0639-4c9e-b21d-e2edb48bef44,ZZZ,Turkey,tr,111162852275902,Uluslararası Af Örgütü Türkiye Şubesi,Facebook
 ebdf99db-0c2a-4cea-8322-f9c77613ef09,Tart basket,2023-02-07T15:05:00.604Z,55274284-8983-486a-a3f3-143f8e612d35,ZZZ,Turkey,tr,104077215289246,Tart basket,Facebook
 ad6603d6-8c22-4b02-95ee-632b62783738,Filistin'in Dostları,2023-02-07T15:05:01.053Z,34c1974c-1562-4dc6-a26c-0b930d14cadb,ZZZ,Turkey,tr,106630938946444,Filistin'in Dostları,Facebook
@@ -245,6 +240,11 @@ ad6603d6-8c22-4b02-95ee-632b62783738,Filistin'in Dostları,2023-02-07T15:05:01.0
 92d0dfb7-edf1-4c72-8920-8b426a68de41,hayrettin_3535,2023-02-07T15:05:01.023Z,261b8b66-1781-4a7b-8255-71dc0662d13d,ZZZ,Turkey,tr,109589715375079,hayrettin_3535,Facebook
 edd31459-6714-44c3-afc3-37b96525fd3d,Kız Kıza Rasgele,2023-02-07T15:05:00.800Z,5e0cfcaa-fb82-447e-931d-5ddf1fdcdf0d,ZZZ,Turkey,tr,101418192742466,Kız Kıza Rasgele,Facebook
 303aeb1d-2fb2-4aaa-84f0-b9a38a6a3c5e,tarihin_arsivleri,2023-02-07T15:05:01.251Z,5c08fb50-3b5e-495d-886d-d85a795b3fa2,ZZZ,Turkey,tr,100390582974436,tarihin_arsivleri,Facebook
+c43e9b78-4755-4623-a74f-c87af520cbe6,ishakheckorkmaz,2023-05-13T06:55:47.345Z,2eefcefa-6fc0-4ce3-a4cf-1ac4256c612f,ZZZ,Turkey,tr,106108879006817,ishakheckorkmaz,Facebook
+102a68e8-b952-4477-a032-9fafc46866a2,EHLİ REY,2023-05-13T06:55:47.410Z,0672d01e-62ce-48d5-be35-7f06b88000cb,ZZZ,Turkey,tr,1085757724915082,EHLİ REY,Facebook
+f2c8cf84-46c1-4699-b03b-f7d1de8e810f,furkan.capat,2023-05-13T06:55:46.871Z,6ed70fcc-1e28-4b77-8271-df485b9b0767,ZZZ,Turkey,tr,101419649611832,furkan.capat,Facebook
+010cdcf9-fcf1-4d21-9ec7-3594b877aab5,Tbservis,2023-05-13T06:55:47.495Z,0263d664-e905-4fac-8d94-013b15458de6,ZZZ,Turkey,tr,174686554271519,Tbservis,Facebook
+522ebbfd-edff-402b-991a-b40c1cbe3b00,Düzce kuafor Leydi derya,2023-05-13T06:55:47.504Z,b561ab53-5642-401f-a7a2-ac1e5332123e,ZZZ,Turkey,tr,1506108409407944,Düzce kuafor Leydi derya,Facebook
 b20c3985-9de3-4498-a996-26338585bd53,Dijital Gaste,2023-02-07T15:05:01.014Z,a5e55dd8-bcfa-4e50-a01f-f3ce9102a8e8,ZZZ,Turkey,tr,106187277979172,Dijital Gaste,Facebook
 38b4cf65-3b9f-450c-bc28-af40ba129c61,SENDE Oyuncak ÜRETebilirsin.,2023-02-07T15:05:01.373Z,5713144d-e92e-406d-9db2-c1cb22f00b2a,ZZZ,Turkey,tr,101709234637335,SENDE Oyuncak ÜRETebilirsin.,Facebook
 27e81f54-96ea-4c48-8d58-59baf01b3a41,bilalsabass,2023-02-07T15:05:01.264Z,29ab2bd3-5fe6-4066-91ac-3b13d512673e,ZZZ,Turkey,tr,100364789557414,bilalsabass,Facebook
